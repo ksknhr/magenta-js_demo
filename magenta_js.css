@@ -1,0 +1,15 @@
+.btn1{
+    border-radius: 5px;
+  background-color: blue;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}    
+
+.btn2{
+    border-radius: 5px;
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}    
