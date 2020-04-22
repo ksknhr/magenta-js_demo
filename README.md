@@ -1,6 +1,6 @@
-#Magenta.js
+# Magenta.js
 This is a magenta.js demo.
 
-##Libraries
+## Libraries
 [magenta.js](https://github.com/magenta/magenta-js)
 
